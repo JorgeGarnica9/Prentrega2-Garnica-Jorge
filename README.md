@@ -1,6 +1,6 @@
 ProyectoWeb
 SEGUNDA PRE ENTREGA - JORGE GARNICA
-CURSO DE DESARROLLO WEB - COMISION 58350
+CURSO DE DESARROLLO WEB - COMISION 53850
 ----------------------------------------
 .-DESCRIPCIÓN:
 --------------

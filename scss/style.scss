@@ -166,6 +166,11 @@
     padding: 5px;
     margin: 10px;
     overflow: hidden;
+
+    h4{
+        font-style: italic;
+        font-size: 1rem;
+    }
 }
 
 .producto img{
@@ -190,7 +195,6 @@
 }
 
 .producto:hover img{
-    width: 600px;
     height: 400px;
 }
 
